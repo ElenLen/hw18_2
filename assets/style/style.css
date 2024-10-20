@@ -1,0 +1,31 @@
+#taskList,
+#addTask {
+  margin-top: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 5px solid green;
+}
+
+.error {
+  color: red;
+  font-size: smaller;
+}
+
+.checkbox {
+  font-weight: bold;
+  padding-right: 10px;
+}
+
+button {
+  background-color: lightblue;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+#taskListTitle {
+  margin-top: 20px;
+}
+
+#taskListFull {
+  color: lightgrey;
+}
